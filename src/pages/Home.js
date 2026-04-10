@@ -12,7 +12,7 @@ function Home() {
       <p>Lab ID: {LAB_ID}</p>
 
       {/* TODO: Replace this placeholder with your question set UI */}
-      <p>QuestionComponent placeholder — implement your assigned question set here.</p>
+      <p>set- vi: Implement deletion of tasks and update UI accordingly</p>
 
     </div>
   );
